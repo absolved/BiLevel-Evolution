@@ -1,0 +1,6 @@
+All tests performed using Python 3.6.8
+SOFTWARE REQUIREMENTS:
+    GAMS Python API
+    neosclient Python API
+    deap Python library
+    numpy python library
